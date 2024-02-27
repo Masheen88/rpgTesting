@@ -1,3 +1,5 @@
+//3:03:44 in tutorial vid.
+
 console.log("First Test");
 
 console.log("Imported collsions array:", collisions);
